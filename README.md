@@ -1,4 +1,4 @@
-# Final Project: Comprehensive Student Portfolio (COSC 111)
+# Final Project: Student Portfolio (COSC 111)
 
 ### Overview: The Digital Archive
 
