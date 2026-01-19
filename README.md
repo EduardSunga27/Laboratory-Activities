@@ -2,7 +2,7 @@
 
 ### Overview: The Digital Archive
 
-This capstone project serves as the culmination of the entire course. Rather than building a new circuit, the objective is to aggregate, organize, and present the complete body of work developed throughout the semester. It focuses on using professional Version Control tools to create a polished, accessible archive of your technical progress.
+This portfolio project serves as the culmination of the entire course. Rather than building a new circuit, the objective is to aggregate, organize, and present the complete body of work developed throughout the semester. It focuses on using professional Version Control tools to create a polished, accessible archive of your technical progress.
 
 ### What This Project Does
 
